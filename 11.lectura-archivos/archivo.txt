@@ -1,5 +1,0 @@
-hola 
-a 
-stodos
-lorem
-ipsum
